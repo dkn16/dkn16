@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dkn16
-- 👀 I’m interested in cosmology, especially **Epoch of Reionization**. I'm always wondering about how to fish information in an ocean of observational data, given that the EoR information is burried in a 1000-10000 times strongger foreground.
-- 🌱 I’m currently learning how to raise a new research idea.
-- 💞️ I’m looking to collaborate on research of EoR.
+- 👀 I have a broad interest in cosmology and astronomy, as well as developing data analysis and statistical inference techniques.
+- 🌱 I’m currently working on [synax](synax.readthedocs.io), an automatic differentiable simulation for galactic sychrotron emission. The Galaxy and cosmology are closely related to each other, as the radio cosmological observations are all contaminated by Galactic foregrounds.
+- 💞️ I’m looking to collaborate on cosmology.
 - 📫 How to reach me: dkn20@mails.tsinghua.edu.cn
 
 <!---
